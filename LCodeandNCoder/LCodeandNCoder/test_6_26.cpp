@@ -1,9 +1,10 @@
-#include <iostream>
-#include <algorithm>
-#include <queue>
-
-using namespace std;
-
+#include "commonly.h"
+//#include <iostream>
+//#include <algorithm>
+//#include <queue>
+//
+//using namespace std;
+//
 //617ºÏ²¢¶þ²æÊ÷
 //Definition for a binary tree node.
 //struct TreeNode {

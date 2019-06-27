@@ -18,5 +18,13 @@
     <ClCompile Include="test_6_26.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_6_27.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="commonly.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

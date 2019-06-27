@@ -119,6 +119,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="test_6_26.cpp" />
+    <ClCompile Include="test_6_27.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="commonly.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
