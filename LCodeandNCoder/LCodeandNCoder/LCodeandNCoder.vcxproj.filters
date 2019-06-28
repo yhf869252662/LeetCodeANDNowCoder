@@ -21,6 +21,9 @@
     <ClCompile Include="test_6_27.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_6_28.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="commonly.h">

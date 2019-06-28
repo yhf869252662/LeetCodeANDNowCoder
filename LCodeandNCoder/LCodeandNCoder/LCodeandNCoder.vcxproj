@@ -120,6 +120,7 @@
   <ItemGroup>
     <ClCompile Include="test_6_26.cpp" />
     <ClCompile Include="test_6_27.cpp" />
+    <ClCompile Include="test_6_28.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="commonly.h" />
