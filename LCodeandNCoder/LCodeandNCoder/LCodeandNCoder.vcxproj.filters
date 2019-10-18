@@ -30,6 +30,9 @@
     <ClCompile Include="test_6_30.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_10_18.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="commonly.h">
