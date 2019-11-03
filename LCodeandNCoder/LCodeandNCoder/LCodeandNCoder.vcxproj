@@ -119,6 +119,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="test_10_18.cpp" />
+    <ClCompile Include="test_11_13.cpp" />
     <ClCompile Include="test_6_26.cpp" />
     <ClCompile Include="test_6_27.cpp" />
     <ClCompile Include="test_6_28.cpp" />
