@@ -30,26 +30,26 @@
 
 //538. 把二叉搜索树转换为累加树
 //Definition for a binary tree node.
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-};
- 
-class Solution {
-public:
-	int count = 0;
-	TreeNode* convertBST(TreeNode* root) {
-		if (root == NULL)
-			return root;
-
-		convertBST(root->right);
-		count += root->val;
-		root->val = count;
-		convertBST(root->left);
-
-		return root;
-	}
-
-};
+//struct TreeNode {
+//    int val;
+//    TreeNode *left;
+//    TreeNode *right;
+//    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+//};
+// 
+//class Solution {
+//public:
+//	int count = 0;
+//	TreeNode* convertBST(TreeNode* root) {
+//		if (root == NULL)
+//			return root;
+//
+//		convertBST(root->right);
+//		count += root->val;
+//		root->val = count;
+//		convertBST(root->left);
+//
+//		return root;
+//	}
+//
+//};
