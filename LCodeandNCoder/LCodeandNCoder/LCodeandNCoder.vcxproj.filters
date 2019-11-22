@@ -39,6 +39,9 @@
     <ClCompile Include="test_11_19.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_11_22.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="commonly.h">
