@@ -56,6 +56,19 @@
 //
 //		return max;
 //	}
+//	int maxSubArray3(vector<int>& nums) {
+//		int n = nums.size();
+//		int maxsum = nums[0];
+//		vector<int> fib(n + 1, 0);
+//
+//		for (int i = 0; i < n; ++i)
+//		{
+//			fib[i + 1] = max(fib[i] + nums[i], nums[i]);
+//			maxsum = max(fib[i + 1], maxsum);
+//		}
+//
+//		return maxsum;
+//	}
 //};
 //
 ////ÊÖÌ×
